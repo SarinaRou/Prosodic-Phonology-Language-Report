@@ -1,0 +1,253 @@
+
+<!DOCTYPE html>
+
+<head>
+        <title>Prosodic Phonology of Farsi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            color: black;
+        }
+        h1, h2 {
+            color: black;
+        }
+        a {
+            color: black;
+            text-decoration: none;
+        }
+        img {
+            max-width: 200px;
+            height: auto;
+            margin-top: 10px;
+        }
+
+    </style>
+
+
+
+
+
+</head>
+<body>
+    <h1>Report: Prosodic Phonology of Farsi (Persian)</h1>
+
+    <h2>About Me</h2>
+    <p>
+        Sarina Rouhani is a master's student in Linguistics at the University of Montana, where she works as a course instructor and research assistant in the Linguistics Department. 
+        Her research focuses on bilingualism, low-resource languages, natural language processing (NLP), and syntax. 
+        She is passionate about language technology, corpus development, and AI-driven solutions for underrepresented languages, striving to bridge the digital gap and ensure linguistic diversity in an AI-powered world.
+    </p>
+    <p>
+        Sarina aims to pursue a PhD in Linguistics to advance research on computational linguistics, corpus linguistics, and multilingual NLP. 
+        Outside academia, she enjoys hiking, microphotography, and making pizza 🍕 (pineapple-free 🚫🍍, of course!).
+    </p>
+    <img src="S.jpg" alt="Sarina's Photo">
+   
+
+
+<p>
+    Connect with me:<br>
+    <a href="https://sarinarouhani.wixsite.com/sarinarouhani" style="color: blue;">My Personal Website</a><br>
+    <a href="https://www.linkedin.com/in/sarinarouhani00/" style="color: blue;">LinkedIn Profile</a>
+</p>
+
+
+
+    <h2> Language Background</h2>
+    <p>
+        Farsi (also known as Persian) is an Indo-Iranian language spoken primarily in Iran, Afghanistan (as Dari), and Tajikistan (as Tajik). 
+        It is head-final, SOV-structured, and typically uses postpositions rather than prepositions. 
+        Its phonological system includes 6 vowels and 23 consonants, and although Persian lacks lexical tone, 
+        intonation and prosody play a crucial role in structuring meaning especially in questions, focus, and emotion.
+    </p>
+    <p>
+        The Persian writing system is modified Arabic script, written right to left, which does not mark stress or intonation, 
+        making spoken prosody essential for disambiguation in communication.
+    </p>
+
+    <h2>Existence of Grammar Books or Journal Articles</h2>
+    <p><strong>PhD Dissertations:</strong></p>
+    <ul>
+        <li>Shiamizadeh (2018) – “Prosody and Processing of Wh-in-Situ Questions in Standard Persian” (University of Ottawa)</li>
+        <li>Hosseini (2014) – “The Phonology and Phonetics of Prosodic Prominence in Persian” (University of Tokyo)</li>
+    </ul>
+
+    <p><strong>Peer-reviewed Articles:</strong></p>
+    <ul>
+        <li>ZJRMS Article (in Persian) – Empirical analysis of intonation patterns using clinical data.</li>
+    </ul>
+
+    <p>Grammar Books:</p>
+    <ul>
+        <li>Windfuhr, Gernot (1991) – "Persian Grammar: History and State of Its Study."</li>
+        <li>Mahootian, Shahrzad (1997) – “Persian” – Brief prosodic section.</li>
+        <li>Lazard (1957) – “Grammaire du Persan Contemporain” – Classic source in French.</li>
+    </ul>
+
+    <h2>Prosodic Analysis</h2>
+    <p><strong>Syllable Theory:</strong></p>
+    <ul>
+        <li>Persian syllable structure allows for onsets and simple codas (C)V(C).</li>
+        <li>Syllables tend to be weight-sensitive, playing a role in stress placement.</li>
+    </ul>
+
+    <p><strong>Stress Theory:</strong></p>
+    <ul>
+        <li>Default stress in Persian is typically on the final syllable of a prosodic word (Hosseini 2014).</li>
+        <li>Morphological boundaries can affect stress placement.</li>
+        <li>Stress is not contrastive but realized through duration, intensity, and pitch.</li>
+    </ul>
+
+    <p><strong>Foot Construction:</strong></p>
+    <ul>
+        <li>Evidence for right-headed trochaic feet based on syllable weight.(Farsi is written from right to left) </li>
+        <li>Feet align with prosodic words, but are less prominent than in stress-timed languages.</li>
+    </ul>
+
+
+
+<p>Default Stress</p>
+    <p>
+        In Persian, the default stress typically falls on the final syllable of a prosodic word, resulting in a trochaic rhythm (Shahraki & Eslami, 2017; Hassan, 2015).
+    </p>
+    <p>
+        Example: <br>
+        /kætaːb/ → [kæ-taːb] (Stress on the final syllable taːb)
+    </p>
+
+    <p>Heavy vs. Light Syllables</p>
+    <p>
+        Heavy syllables (with a coda) tend to attract stress, while light syllables are generally unstressed (Kiełbasa, 2002; Mazlum, 2004).
+    </p>
+    <p>
+        Example: <br>
+        /ˈkætæb/ → stressed on the first syllable (heavy syllable). <br>
+        /kæˈtaːb/ → stressed on the final syllable (heavy syllable).
+    </p>
+
+</body>
+</html>
+
+
+
+    <h1>Hosseini (2014) – Analytical Descriptive Study</h1>
+
+    <h2>Study Focus:</h2>
+    <p>
+        This research analyzed prosodic prominence in Persian and its alignment with syntactic boundaries.
+    </p>
+
+    <h2>Methodology:</h2>
+    <p>
+         The study analyzed spoken Persian through acoustic measurements using tools like Praat.<br>
+         Data included natural speech samples to observepitch contours,syllable lengthening, and other prosodic features in different syntactic contexts.<br>
+         The analysis specifically looked at the alignment of prosodic features (like pitch and duration) with syntactic structures, such as clauses and phrases.
+    </p>
+
+    <h2>Key Findings:</h2>
+    <ul>
+        <li>Pitch contours, especially rising pitch, and final syllable lengthening were found to be important markers of prosodic prominence.</li>
+        <li>These features were observed to align with syntactic boundaries, indicating their role in marking focus,contrast, and emphasis within sentences.</li>
+        <li>The study revealed that F0 peak alignment (the pitch peak) and syllable duration are reliable indicators of prosodic prominence, signaling both emphasis and syntactic structure in Persian.</li>
+    </ul>
+
+    <p>
+        Hosseini’s study underscores the significance of prosody in marking syntactic boundaries in Persian, with implications for understanding how intonation and stress work together in communication.
+    </p>
+</body>
+</html>
+
+
+
+
+   <h2>     Conclusion       :</h2>  
+
+    <p><strong>Pitch Accents and Intonation Phrasing:</strong></p>
+    <ul>
+        <li>H+L* as common pitch accent</li>
+        <li>L-L% as a boundary tone for statements</li>
+        <li>H-H% as a common contour for questions</li>
+        <li>Two levels of phrasing: intermediate phrase (ip) and intonational phrase (ιP)</li>
+    </ul>
+
+ 
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <caption><strong>Persian Syllable Structure and Stress</strong></caption>
+  <tr>
+    <th>Feature</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Syllable Structure</td>
+    <td>(C)V(C)</td>
+  </tr>
+  <tr>
+    <td>Stress Position</td>
+    <td>Final syllable of prosodic word</td>
+  </tr>
+  <tr>
+    <td>Stress Type</td>
+    <td>Non-contrastive</td>
+  </tr>
+  <tr>
+    <td>Stress Cues</td>
+    <td>Duration, Intensity, Pitch</td>
+  </tr>
+</table>
+
+<br>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <caption><strong>Pitch Accents and Boundary Tones</strong></caption>
+
+  <tr>
+    <th>Intonation Feature</th>
+    <th>Notation</th>
+    <th>Usage</th>
+  </tr>
+  <tr>
+    <td>Pitch Accent</td>
+    <td>H+L*</td>
+    <td>Common across phrases</td>
+  </tr>
+  <tr>
+    <td>Statement Boundary Tone</td>
+    <td>L-L%</td>
+    <td>Declarative sentences</td>
+  </tr>
+  <tr>
+    <td>Question Contour</td>
+    <td>H-H%</td>
+    <td>Yes/no and wh-questions</td>
+  </tr>
+  <tr>
+    <td>Phrase Boundaries</td>
+    <td>ip, ιP</td>
+    <td>Intermediate and full phrasing</td>
+  </tr>
+</table>
+
+
+
+
+
+  <h2>References</h2>
+ 
+    <li>Shiamizadeh, M. (2018). <em>Intonation and sentence modality in Farsi: A perceptual and acoustic study</em>. Unpublished doctoral dissertation.</li>
+    <li>Hosseini, H. (2014). <em>The phonetic correlates of prosodic prominence in Persian</em>. Journal of Linguistics and Language Teaching, 5(2), 35–56.</li>
+    <li>Farahani, M., & Ghassemi, F. (2022). <em>Intonation in the speech of individuals with aphasia: A descriptive study</em>. Zahedan Journal of Research in Medical Sciences (ZJRMS), 24(5).</li>
+    <li>Jun, S.-A. (2005). <em>Prosodic Typology: The Phonology of Intonation and Phrasing</em>. Oxford University Press.</li>
+    <li>Gussenhoven, C. (2004). <em>The Phonology of Tone and Intonation</em>. Cambridge University Press.</li>
+    <li>Nespor, M., & Vogel, I. (2007). <em>Prosodic Phonology</em> (2nd ed.). De Gruyter Mouton.</li>
+    <li>Rahimi, A. (2000). <em>Discourse intonation in Persian: The interface between syntax and intonation</em>. Iranian Journal of Applied Linguistics, 3(1), 75–94.</li>
+    <li>Hassan, S. (2015). A Metrical Approach to Stress Patterns in Persian. <i>Linguistic Research</i>, <b>32</b>(2), 177-193.</li>
+    <li>Kiełbasa, M. (2002). A Phonological Analysis of Persian Stress. <i>Linguistics</i>, <b>40</b>, 231-265.</li>
+    <li>Mazlum, A. (2004). The Structure of Stress in Persian. <i>Journal of Persian Language Studies</i>, <b>7</b>(1), 47-72.</li>
+    <li>Shahraki, A., & Eslami, Z. (2017). Stress in Persian and Its Relation to the Syntax-Prosody Interface. <i>WCCFL 33</i>, 370–379.</li>
+  
+
+
+
